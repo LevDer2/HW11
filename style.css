@@ -1,0 +1,8 @@
+.hw {
+    width: 350px;
+    height: 220px;
+    background-color: green;
+    padding: 15px 10px 20px 10px;
+    border: 2px double red;
+    margin-bottom: 30px;
+}
